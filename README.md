@@ -4,9 +4,11 @@
 - 🤔 I’m interested in website developing and software programming.
 - ⚡ Fun fact: I enjoy reading and learning about Asian cultural heritages and textiles.
 
-## Cybersecurity
+## Cybersecurity Projects:
+- Active Directory/Home Lab
 
-klklj
+## Networking Projects:
+- Small Office/Home Office
 <!--      
 **La-debug-ops/La-debug-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
