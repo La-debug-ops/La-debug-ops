@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Comptia A+
-- 🌱 I’m currently learning Comptia A+
-- ⚡ Fun fact: I enjoy reading and learning about Asian cultural heritages and textiles
+- 🔭 I’m currently working on obtaining my Comptia A+ certification.
+- 🤔 I’m interested in website developing and software programming.
+- ⚡ Fun fact: I enjoy reading and learning about Asian cultural heritages and textiles.
 
 <!--
 **La-debug-ops/La-debug-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
