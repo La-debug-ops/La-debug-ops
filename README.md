@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Comptia A+
+- 🌱 I’m currently learning Comptia A+
 <!--
 **La-debug-ops/La-debug-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
