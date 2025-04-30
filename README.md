@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I enjoy reading and learning about Asian cultural heritages and textiles.
 
 ## Cybersecurity Projects:
-- Active Directory/Home Lab
+- [Active Directory/Home Lab](https://github.com/La-debug-ops/Active-Directory/blob/main/README.md)
 
 ## Networking Projects:
 - Small Office/Home Office
